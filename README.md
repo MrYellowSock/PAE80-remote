@@ -1,2 +1,2 @@
 # PAE80-remote
-Controlling  PAE80W led panel via infrared from arduino
+Example of  Controlling  PAE80W led panel via infrared from arduino
